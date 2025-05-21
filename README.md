@@ -70,9 +70,8 @@ Phase-3
 - Enforce multi-factor authentication (MFA) for users accessing critical systems.
 - Basic AI Model: The AI should be able to assess simple symptoms and provide relevant advice to users.
 
-- phase-4
-- 
-- •	Clean and enrich datasets from ERP, CRM, IoT sensors, etc.
+phase-4 
+- Clean and enrich datasets from ERP, CRM, IoT sensors, etc.
 - Improve understanding using custom vocabulary, synonyms, and domain-specific expressions.
 - Improve understanding using custom vocabulary, synonyms, and domain-specific expressions.
 - Use API gateways and firewalls to protect data exchanged with third-party systems.
